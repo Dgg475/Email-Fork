@@ -12,7 +12,7 @@ Attachment Information: Provides information about attachments in the email, suc
 Reply-To Address: Detects and displays the Reply-To address from the email headers, if present.
 ### Usage
 
-``` python
+```python
 python3 email_fork.py -f path/to/email.eml
 ```
 This will run all analysis features on that single email file. 
