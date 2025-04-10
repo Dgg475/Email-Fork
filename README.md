@@ -13,7 +13,7 @@ Reply-To Address: Detects and displays the Reply-To address from the email heade
 ### Usage
 Analyzing a single email file:
 ```python3
-python3 email_fork.py -f path/to/email.eml
+python3 email_fork.py  path/to/email.eml
 ```
 Analyzing multiple emails in a folder:
 ```python3
